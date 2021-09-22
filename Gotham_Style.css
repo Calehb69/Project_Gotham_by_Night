@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "batpolice";
+  src: url("batpolice-webfont.ttf") format("truetype");
+}
+
+body {
+  background-image: url("img/Gotham night.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+figcaption {
+  color: yellow;
+}
+
+h1 {
+  color: yellow;
+  font-size: xx-large;
+  font-family: "batpolice";
+  text-align: center;
+  text-shadow: 2px 2px 4px yellow;
+}
+
+p {
+  color: yellow;
+  font-size: x-large;
+  font-family: "batpolice";
+  text-align: center;
+}
+
+h2 {
+  color: yellow;
+  font-size: large;
+  text-align: center;
+}
+ul {
+  color: yellow;
+  font-size: large;
+  text-align: center;
+}
+
+a {
+  color: yellow;
+  font-size: large;
+  text-align: center;
+}

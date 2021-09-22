@@ -1,0 +1,20 @@
+body {
+  background-image: url("Dark_Street.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+h1 {
+  color: darkorchid;
+  font-size: xx-large;
+  font-family: "batpolice";
+  text-align: center;
+  background-color: rgb(8, 8, 8, 0.8);
+}
+
+p {
+  color: darkorchid;
+  background-color: rgb(8, 8, 8, 0.8);
+  font-size: large;
+}
